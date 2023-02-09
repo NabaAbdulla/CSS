@@ -1,0 +1,24 @@
+.parag1{
+    width: 200px;
+    height: 180px;
+    background-color: rgb(172, 110, 229);
+    color: black;
+     padding: 20px;
+     margin: 8px;
+}
+.parag2{
+    width: 200px;
+    height: 180px;
+    background-color:rgb(58, 18, 95);
+    color: white;
+    padding: 20px;
+    margin: 8px;
+}
+.parag3{
+    width: 200px;
+    height: 180px;
+    background-color: rgb(122, 117, 117);
+    color: white;
+     padding: 20px;
+     margin: 8px;
+}
