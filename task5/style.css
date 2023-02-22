@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+
+.p1,.p2,.p3{
+    padding: 26px;
+    margin: 10px;
+    width: 280px;
+    height: 257px;
+    display: inline-block;
+}
+
+.p1{
+    border: 8px solid red;
+}
+
+.p2,.p3{
+    color: white;
+}
+
+.p2{
+    border-right: 8px dotted red;
+    border-left: 8px dashed red;
+    background-color: #460d7b;
+}
+
+.p3{
+    border-top: 8px dashed red;
+    border-bottom: 8px solid red;
+    background-color: #b2a7bc;
+    position: absolute;
+}
